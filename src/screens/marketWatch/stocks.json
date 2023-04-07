@@ -1,0 +1,252 @@
+[
+	{
+		"code": "20MICRONS",
+		"currentPrice": "79.65",
+		"entity": "NSE"
+	},
+	{
+		"code": "360ONE",
+		"currentPrice": "439.80",
+		"entity": "NSE"
+	},
+	{
+		"code": "3MINDIA",
+		"currentPrice": "23328.25",
+		"entity": "NSE"
+	},
+	{
+		"code": "3PLAND",
+		"currentPrice": "22.05",
+		"entity": "NSE"
+	},
+	{
+		"code": "3IINFOLTD",
+		"currentPrice": "35.25",
+		"entity": "NSE"
+	},
+	{
+		"code": "5PAISA",
+		"currentPrice": "289.64",
+		"entity": "NSE"
+	},
+	{
+		"code": "63MOONS",
+		"currentPrice": "174.05",
+		"entity": "NSE"
+	},
+	{
+		"code": "A2ZINFRA",
+		"currentPrice": "7.00",
+		"entity": "NSE"
+	},
+	{
+		"code": "AAATECH",
+		"currentPrice": "48.54",
+		"entity": "NSE"
+	},
+	{
+		"code": "ABB",
+		"currentPrice": "3397.09",
+		"entity": "NSE"
+	},
+	{
+		"code": "ABMINTLLTD",
+		"currentPrice": "47.14",
+		"entity": "NSE"
+	},
+	{
+		"code": "ACC",
+		"currentPrice": "1712.00",
+		"entity": "NSE"
+	},
+	{
+		"code": "ADFFOODS",
+		"currentPrice": "731.35",
+		"entity": "NSE"
+	},
+	{
+		"code": "AGI",
+		"currentPrice": "362.89",
+		"entity": "NSE"
+	},
+	{
+		"code": "AGSTRA",
+		"currentPrice": "48.85",
+		"entity": "NSE"
+	},
+	{
+		"code": "AIAENG",
+		"currentPrice": "2933.94",
+		"entity": "NSE"
+	},
+	{
+		"code": "AJRINFRA",
+		"currentPrice": "0.94",
+		"entity": "NSE"
+	},
+	{
+		"code": "AKG",
+		"currentPrice": "34.20",
+		"entity": "NSE"
+	},
+	{
+		"code": "AMDIND",
+		"currentPrice": "56.95",
+		"entity": "NSE"
+	},
+	{
+		"code": "AMJLAND",
+		"currentPrice": "23.10",
+		"entity": "NSE"
+	},
+	{
+		"code": "APLAPOLLO",
+		"currentPrice": "1198.09",
+		"entity": "NSE"
+	},
+	{
+		"code": "ARSSINFRA",
+		"currentPrice": "24.60",
+		"entity": "NSE"
+	},
+	{
+		"code": "ARTNIRMAN",
+		"currentPrice": "49.10",
+		"entity": "NSE"
+	},
+	{
+		"code": "AVTNPL",
+		"currentPrice": "83.79",
+		"entity": "NSE"
+	},
+	{
+		"code": "AXISCADES",
+		"currentPrice": "291.89",
+		"entity": "NSE"
+	},
+	{
+		"code": "AYMSYNTEX",
+		"currentPrice": "69.59",
+		"entity": "NSE"
+	},
+	{
+		"code": "AAKASH",
+		"currentPrice": "6.70",
+		"entity": "NSE"
+	},
+	{
+		"code": "AAREYDRUGS",
+		"currentPrice": "28.00",
+		"entity": "NSE"
+	},
+	{
+		"code": "AARON",
+		"currentPrice": "193.25",
+		"entity": "NSE"
+	},
+	{
+		"code": "AARTIDRUGS",
+		"currentPrice": "387.85",
+		"entity": "NSE"
+	},
+	{
+		"code": "AARTIIND",
+		"currentPrice": "536.85",
+		"entity": "NSE"
+	},
+	{
+		"code": "AARTIPHARM",
+		"currentPrice": "287.50",
+		"entity": "NSE"
+	},
+	{
+		"code": "AARTISURF",
+		"currentPrice": "475.75",
+		"entity": "NSE"
+	},
+	{
+		"code": "AARVEEDEN",
+		"currentPrice": "22.35",
+		"entity": "NSE"
+	},
+	{
+		"code": "AARVI",
+		"currentPrice": "136.09",
+		"entity": "NSE"
+	},
+	{
+		"code": "AAVAS",
+		"currentPrice": "1635.70",
+		"entity": "NSE"
+	},
+	{
+		"code": "ABAN",
+		"currentPrice": "37.04",
+		"entity": "NSE"
+	},
+	{
+		"code": "AHL",
+		"currentPrice": "212.65",
+		"entity": "NSE"
+	},
+	{
+		"code": "ABBOTINDIA",
+		"currentPrice": "22880.95",
+		"entity": "NSE"
+	},
+	{
+		"code": "ACCELYA",
+		"currentPrice": "1335.00",
+		"entity": "NSE"
+	},
+	{
+		"code": "ACCURACY",
+		"currentPrice": "14.19",
+		"entity": "NSE"
+	},
+	{
+		"code": "ACEINTEG",
+		"currentPrice": "37.29",
+		"entity": "NSE"
+	},
+	{
+		"code": "ACE",
+		"currentPrice": "415.94",
+		"entity": "NSE"
+	},
+	{
+		"code": "ADANIENT",
+		"currentPrice": "1754.04",
+		"entity": "NSE"
+	},
+	{
+		"code": "ADANIGREEN",
+		"currentPrice": "856.35",
+		"entity": "NSE"
+	},
+	{
+		"code": "ADANIPORTS",
+		"currentPrice": "641.60",
+		"entity": "NSE"
+	},
+	{
+		"code": "ADANIPOWER",
+		"currentPrice": "192.19",
+		"entity": "NSE"
+	},
+	{
+		"code": "ATGL",
+		"currentPrice": "863.00",
+		"entity": "NSE"
+	},
+	{
+		"code": "ADANITRANS",
+		"currentPrice": "953.20",
+		"entity": "NSE"
+	},
+	{
+		"code": "AWL",
+		"currentPrice": "409.19",
+		"entity": "NSE"
+	}
+]
